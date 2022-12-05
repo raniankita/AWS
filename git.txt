@@ -1,0 +1,4 @@
+Hey there!
+Today is monday
+
+We're gong to push the code to git
